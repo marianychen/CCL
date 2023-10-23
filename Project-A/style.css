@@ -3,9 +3,10 @@ html, body {
   padding: 0;
   background-color: lightblue;
 }
+
 h1{
   color:black;
-  background-color:#82775a;
+  background-color: white;
   font-family:Helvetica, Arial, sans-serif;
   font-size: 30px;
   font-weight: bold;
@@ -13,9 +14,9 @@ h1{
 }
 
 h2{
-  color:black;
+  color:purple;
   font-family:Helvetica, Arial, sans-serif;
-  font-size: 20px;
+  font-size: 30px;
   font-style: italic;
   font-weight: bold;
   text-align: center;
@@ -30,6 +31,10 @@ p{
 canvas {
   display: block;
   margin: auto;
+}
+
+#myp5{
+  border: 10px black;
 }
 
 
