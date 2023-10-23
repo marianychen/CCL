@@ -3,6 +3,20 @@ html, body {
   padding: 0;
   background-color: lightblue;
 }
+h1{
+  color:black;
+  background-color:#82775a;
+  font-family:Helvetica, Arial, sans-serif;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+p{
+  color: black;
+  font-family: 'Young Serif', serif;
+  font-size: 30px;
+}
 canvas {
   display: block;
 }
