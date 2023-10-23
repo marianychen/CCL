@@ -7,21 +7,29 @@ h1{
   color:black;
   background-color:#82775a;
   font-family:Helvetica, Arial, sans-serif;
-  font-size: 50px;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2{
+  color:black;
+  font-family:Helvetica, Arial, sans-serif;
+  font-size: 20px;
   font-style: italic;
   font-weight: bold;
   text-align: center;
 }
+
 p{
   color: black;
   font-family: 'Young Serif', serif;
-  font-size: 30px;
+  font-size: 15px;
+  text-align: center;
 }
 canvas {
   display: block;
   margin: auto;
 }
 
-#myp5{
-  border: 10px sandybrown;
-}
+
